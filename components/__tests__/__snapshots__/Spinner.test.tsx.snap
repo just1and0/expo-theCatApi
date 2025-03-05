@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<ActivityIndicator
+  color="#ff7f50"
+  size="large"
+/>
+`;
