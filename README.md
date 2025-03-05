@@ -6,6 +6,10 @@ A mobile app built with Expo and React Native that lets users browse, favorite, 
   <img src="./assets/images/upload.png" width="30%" style="margin-right:1%;" />
   <img src="./assets/images/nocats.png" width="30%" />
 </p>
+<p align="center">
+  <img src="./assets/images/web.png" width="100%" style="margin-right:1%;" />
+ 
+</p>
 
 ## Overview
 
@@ -164,6 +168,7 @@ Tests cover custom hooks, API functions, and UI components (including verifying 
 - Refine UI animations and transitions based on user feedback.
 - **KISS on the upload page:** Simplify the upload screen further to improve usability and maintainability.
 - **More tests on the upload screen:** Increase test coverage for the upload functionality to ensure reliability.
+- **Improve Web UI:** improve on web design using index.web.tsx
 
 ## License
 
